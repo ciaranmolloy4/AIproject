@@ -1,1 +1,1 @@
-This is Ryan Cummins, Ciaran Molloy and Dimitri Kalantis AI project on studenst GPA that invludes a GPA predictor, graphs showing factors on students GPA and correlation and then the Excel file with the results from the Survey we created.
+This is Ryan Cummins, Ciaran Molloy and Dimitri Kalantis AI project on studenst GPA that includes a GPA predictor, graphs showing factors on students GPA and correlation and then the Excel file with the results from the Survey we created.
